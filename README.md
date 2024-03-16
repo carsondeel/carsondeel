@@ -6,8 +6,8 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   12 mins         ████████████████████████▓   98.85 %
-Git    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+YAML   23 mins         █████████████████████████   99.38 %
+Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
