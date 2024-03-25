@@ -6,10 +6,9 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 <!--START_SECTION:waka-->
 
 ```txt
-Python   5 hrs 55 mins   ███████████████████▒░░░░░   77.06 %
-YAML     1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.46 %
-Other    38 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Python   2 hrs 1 min     ███████████████████░░░░░░   75.89 %
+Other    38 mins         ██████░░░░░░░░░░░░░░░░░░░   23.98 %
+Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
