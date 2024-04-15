@@ -4,9 +4,4 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 ## 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
