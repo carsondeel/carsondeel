@@ -5,4 +5,8 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 
 <!--START_SECTION:waka-->
 
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
