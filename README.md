@@ -6,11 +6,9 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         31 mins         ████████████▒░░░░░░░░░░░░   49.75 %
-HTML         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-JavaScript   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Other        4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-CSS          2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JavaScript   3 mins          ███████████████▒░░░░░░░░░   61.43 %
+CSS          1 min           ████████░░░░░░░░░░░░░░░░░   31.98 %
+HTML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->
