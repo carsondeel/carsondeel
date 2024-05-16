@@ -6,9 +6,7 @@ I'm a UNC Chapel Hill Computer Science student(May 2024) actively seeking softwa
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   3 mins          ███████████████▒░░░░░░░░░   61.43 %
-CSS          1 min           ████████░░░░░░░░░░░░░░░░░   31.98 %
-HTML         0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
