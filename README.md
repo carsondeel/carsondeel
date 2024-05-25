@@ -1,3 +1,7 @@
+## 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## ⌨️ About Me
 👋 Hi there! I'm Carson Deel
 
@@ -35,13 +39,3 @@ I'm a software engineer with a passion for bridging the physical and digital wor
 * 📊  **Real-Time Data Dashboard:** Created an Angular application to visualize real-time data streams from an industrial sensor network. 
 
 Thanks for visiting! 
-
-## 📊 Weekly development breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript   45 mins         █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
